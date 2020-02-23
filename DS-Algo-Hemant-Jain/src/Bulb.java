@@ -12,6 +12,7 @@ public class Bulb {
     public static int getBulbCount(){
         return TotalBulbCount;
     }
+//    By default, all the methods are instance methods.
     // Instance Method
     public void turnOn() {
         isOn = true;
