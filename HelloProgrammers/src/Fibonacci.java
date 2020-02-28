@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Fibonacci {
-
+//	naive
     private static int calcFiboNaive (int n) {
         if (n <= 1) {
             return n;
