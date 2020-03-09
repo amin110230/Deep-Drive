@@ -1,0 +1,7 @@
+Memory Address of the ith element: x + i * y
+    Here, x = start address of array
+          y = element size
+
+    if  start address of array = 12, element size = 4 bytes
+        address of array[5] = 12 + (5 * 4)
+                            = 32
