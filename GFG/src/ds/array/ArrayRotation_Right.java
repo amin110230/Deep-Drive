@@ -1,3 +1,5 @@
+package ds.array;
+
 import java.util.Scanner;
 
 public class ArrayRotation_Right {
